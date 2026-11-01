@@ -10,7 +10,7 @@ Notas de estudo da trilha [Pre Security](https://tryhackme.com/path/outline/pres
 
 | # | Seção | Salas | Status |
 |---|---|---|---|
-| 1 | Introduction to Cyber Security | 3 | ⏳ |
+| 1 | Introduction to Cyber Security | 3 | 🔄 |
 | 2 | Computer Fundamentals | 5 | ⏳ |
 | 3 | Operating Systems Basics | 5 | ⏳ |
 | 4 | Software Basics | 5 | ⏳ |
